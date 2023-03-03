@@ -1,6 +1,6 @@
 ---
 title: "Coffee break"
-teaching: 30
+teaching: 60
 
 objectives:
 - "Move around"
